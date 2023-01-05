@@ -1,0 +1,5 @@
+program foo; 
+int meth1(int x) { 
+assign x=x+ -1; 
+call boo(3)
+}
